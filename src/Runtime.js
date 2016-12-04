@@ -2,7 +2,8 @@ window['Runtime'] = (function Runtime(__can, __path){
 	var __scope = this;
 	// CService object
 	// -----------------------------------------------------------------
-	/*Copyright (c) 1996-2012 Clickteam*/
+	/* Copyright (c) 1996-2012 Clickteam
+	 */
 
 	var CServices = {};
 
